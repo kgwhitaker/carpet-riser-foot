@@ -1,0 +1,21 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "jeep-battery-install": {
+            "foot_depth": "35",
+            "foot_height": "16",
+            "foot_width": "50",
+            "min_teeth_spacing": "2",
+            "teeth_cols_y": "4",
+            "teeth_rows_x": "6"
+        },
+        "alternator-charger": {
+            "foot_depth": "27",
+            "foot_height": "10",
+            "foot_width": "27",
+            "min_teeth_spacing": "2",
+            "teeth_cols_y": "4",
+            "teeth_rows_x": "4"
+        }
+    }
+}
